@@ -65,6 +65,14 @@ button:hover {
   opacity: .8;
 }
 
+div#toy-form {
+  display: block;
+}
+
+div#toy-form.collapsed {
+  display: none;
+}
+
 .add-toy-form {
   width: 80%
 }
